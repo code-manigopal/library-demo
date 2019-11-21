@@ -1,4 +1,4 @@
-String return_name(String name){
+String returnName(String name){
   String data = "Hi " + name
   return data
 }
